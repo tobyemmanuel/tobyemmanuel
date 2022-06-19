@@ -2,6 +2,6 @@
  
  👋 Hi, I’m @tobyemmanuel - Adelabu Oluwatobi 
 - 👀 I’m interested in Web and App development. 
-- 🌱 I’m currently learning Laravel, Node.js, and React. 
+- 🌱 I’ve mastered HTML, CSS, JS, SQL, Bootstrap, PHP, Laravel, Node.js, MongoDB, and ReactJs.
 - 💞️ I’m looking to collaborate on any project within these languages. 
 - 📫 How to reach me - tobyemmanuel7@gmail.com
