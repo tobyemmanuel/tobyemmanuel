@@ -2,6 +2,6 @@
  
  👋 Hi, I’m @tobyemmanuel - Adelabu Oluwatobi 
 - 👀 I’m interested in Web and App development. 
-- 🌱 I’ve mastered HTML, CSS, JS, SQL, Bootstrap, PHP, WordPress, jQuery, Ajax, Laravel, Node.js, ExpressJs, MongoDB, and ReactJs, while learning C, Linux, Server Admin, and Shell,
+- 🌱 I currently write HTML, CSS, JS, SQL, Bootstrap, PHP, WordPress, jQuery, Ajax, Laravel, Node.js, ExpressJs, MongoDB, and ReactJs, while learning C, Linux, Server Admin, and Shell,
 - 💞️ I’m looking to collaborate on any project within these languages. 
 - 📫 How to reach me - adelabutobi@gmail.com
